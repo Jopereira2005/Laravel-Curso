@@ -1,4 +1,4 @@
-# Curso - Curso Laravel Matheus Battisti - Hora de Codar
+# Curso | Curso Laravel Matheus Battisti - Hora de Codar
 ## Link : https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&index=1
 
 # Aula 01
