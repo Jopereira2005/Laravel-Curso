@@ -1,9 +1,8 @@
 # Curso | Curso Laravel Matheus Battisti - Hora de Codar
 ## Link : https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&index=1
 
-##
-
 ## Aula 01
+
 ### O que é o Laravel
 
 - Framework construido na linguagem PHP;
@@ -15,6 +14,7 @@
 ##
 
 ## Aula 02
+
 ### Rotas e Views
 
 - Vamos acessar as páginas do nosso projeto por meio de rotas;
@@ -25,6 +25,7 @@
 ##
 
 ## Aula 03
+
 ### Conhecendo o Blade (template engine)
 
 - Blade é a template engine do Laravel
@@ -35,6 +36,7 @@
 ##
 
 ## Aula 04
+
 ### Explorando o Blade
 
 - Podemos criar estruturas de repetição no Blade;
@@ -45,6 +47,7 @@
 ##
 
 ## Aula 05
+
 ### Adicionando arquivos estáticos
 
 - Uma aplicação web normalmente tem aquivos de CSS, JSS e imagens;
@@ -54,6 +57,7 @@
 ##
 
 ## Aula 06
+
 ### Layouts com Blade
 
 - A funcionalidade de criar um layout permite o reaproveitamento de código;
