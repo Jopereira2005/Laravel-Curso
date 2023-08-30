@@ -1,6 +1,8 @@
 # Curso | Curso Laravel Matheus Battisti - Hora de Codar
 ## Link : https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG&index=1
 
+##
+
 ## Aula 01
 ### O que é o Laravel
 
@@ -10,6 +12,8 @@
 - Facil de codar, flexibiliza bastante  o desenvolvimento;
 - A estrutura de pastas é simples, bem organizado;
 
+##
+
 ## Aula 02
 ### Rotas e Views
 
@@ -18,6 +22,7 @@
 - Nas views teremos os templates, onde há a estruturação da página por meio do HTML
 - Os templates também renderizam dados dinâmicos por meio do PHP;
 
+##
 
 ## Aula 03
 ### Conhecendo o Blade (template engine)
@@ -27,6 +32,8 @@
 - Inserindo tags de HTML e também dados que são fornecidos pelo banco;
 - Podemos dizer que as Views serão responsabilidade do Blade;
 
+##
+
 ## Aula 04
 ### Explorando o Blade
 
@@ -35,12 +42,16 @@
 - Escrever comentários nos arquivos de view;
 - O Blade realmente é muito versátil e nos permite chegar num resultados excelentes de renderização de views;
 
+##
+
 ## Aula 05
 ### Adicionando arquivos estáticos
 
 - Uma aplicação web normalmente tem aquivos de CSS, JSS e imagens;
 - O Laravel proporciona uma maneira muito fácil de incerir estes arquivos no projeto;
 - Todos os recyrsis ficam na pasta public, e tem acesso direto nas tags que trabalham com arquivos estáticos;
+
+##
 
 ## Aula 06
 ### Layouts com Blade
