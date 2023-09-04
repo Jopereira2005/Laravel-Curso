@@ -70,8 +70,29 @@
 
 ### Parâmetros nas rotas
 
-- Podemos mudar como uma view nos responde adicionando parâmetros a uma rota
+- Podemos mudar como uma view nos responde adicionando parâmetros a uma rota;
 - Ao definir a rota devemos colocar o parâmetro desta maneira: {id};
 - Podemos ter parâmetros opcionais também, adicionando uma ?;
-- O Laravel aceita também query parameters, utizando a seguinte sintaxe: ?nome=Matheus&idade=29
+- O Laravel aceita também query parameters, utizando a seguinte sintaxe: ?nome=Matheus&idade=29;
+
+## Aula 08
+
+### Controllers
+
+- Os Controllers são parte fundamental de toda aplicação em Laravel;
+- Geralmente condesam a maior parte da lógica;
+- Tem o papel de enviar e esperar respostas do banco de dados;
+- E também receber receber e enviar alguma resposta para as views;
+- Os Controllers pdem ser criados via artisan;
+- É comum retornar uma view ou redirecionar para uma URL pelo Controller;
+
+## Aula 9
+
+### Conexão com o banco
+
+- A conexão do Laravel com o banco é configurado pelo arquivo .env;
+- Isso nos proporciona maior liberdade e também segurança na aplicação;
+- O Laravel utiliza um ORM(Object-Relation Mapping) chamada Eloquent;
+- Etambém para a criação de tabelas as migrations;
+
 
