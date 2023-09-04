@@ -18,9 +18,33 @@
     <!-- JS Aplicação -->
   	<script src="/js/script.js"></script>
   </head>
-  <body class="antialiased">
-  		
+  <body>
+  		<header>
+        <nav class="navbar navbar-expand-lg navbar-light">
+          <div class="collapse navbar-collapse" id="navbar">
+            <a href="/img/hdcevents_logo.svg" class="navbar-brand">
+            </a>
+
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a href="/" class="nav-link">Eventos</a>
+              </li>
+              <li class="nav-item">
+                <a href="/" class="nav-link">Criar Eventos</a>
+              </li>
+              <li class="nav-item">
+                <a href="/" class="nav-link">Entrar</a>
+              </li>
+              <li class="nav-item">
+                <a href="/" class="nav-link">Cadastrar</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </header>
+
       @yield('content')
+
       <footer>
         <p>Laravel - Learning  &copy; 2023</p>
       </footer>
