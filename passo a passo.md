@@ -10,7 +10,16 @@
 - execute php artisan serve
 - roda uma aplicação de laravel
 
+# Migrate
+
 ## Conexão com o Banco de Dados
+- php artisan migrate
 - caso ocorra algum erro quando for rodar o php artisan migrate
 - veja esse video: https://www.youtube.com/watch?v=uLOH0qqXptc
 - php artisan migrate:fresh
+
+## Comandos
+- php artisan make:migrate nome_tabela <- cria tabela
+- php artisan migrate:fresh <- deleta e roda de novo todas as migrate
+
+

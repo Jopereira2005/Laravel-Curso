@@ -95,4 +95,12 @@
 - O Laravel utiliza um ORM(Object-Relation Mapping) chamada Eloquent;
 - Etambém para a criação de tabelas as migrations;
 
+## Aula 10
 
+### Migrations 
+
+- As Migrations funcionam como um versionamento de banco de dados;
+- Podemos avançar e retroceder a qualquer momento;
+- Adicionar colunas e remover de forma facilitada;
+- Fazer o setup de DB de uma nova isntalação em apenas um comando;
+- Podemos verificar as migrations com migrate:status
