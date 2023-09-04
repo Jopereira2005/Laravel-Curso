@@ -64,4 +64,14 @@
 - Por exemplo: Podemos utilizar o mesmo header e footer em todas as páginas sem repetir o código;
 - Mas o layout do blade não se limita a isso, podemos cria seçcões do site por meio do layout e também mudar o title da página; 
 
- 
+##
+
+## Aula 07
+
+### Parâmetros nas rotas
+
+- Podemos mudar como uma view nos responde adicionando parâmetros a uma rota
+- Ao definir a rota devemos colocar o parâmetro desta maneira: {id};
+- Podemos ter parâmetros opcionais também, adicionando uma ?;
+- O Laravel aceita também query parameters, utizando a seguinte sintaxe: ?nome=Matheus&idade=29
+
