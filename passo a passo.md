@@ -21,5 +21,9 @@
 ## Comandos
 - php artisan make:migrate nome_tabela <- cria tabela
 - php artisan migrate:fresh <- deleta e roda de novo todas as migrate
+- php artisan migrate:rollback <- volta uma migrate
+- php artisan migrate:reset <- volta todas as migrate
+- php artisan migrate:refresh <- faz o reset e roda de novo as migrate
+
 
 

@@ -104,3 +104,12 @@
 - Adicionar colunas e remover de forma facilitada;
 - Fazer o setup de DB de uma nova isntalação em apenas um comando;
 - Podemos verificar as migrations com migrate:status
+
+## Aula 11
+
+## Avançando em Migrations
+- Quando precisamos adicionar um novo campo a uma tabela, devemos criar uma nova migration;
+- Porém devemos tomar cuidado para não rodar o comando fresh, e apagar os dados já existentes;
+- O comando rollback pode ser utilizado para voltar uma migration;
+- Para voltar todas podemos utilizar o reset;
+- Para voltar todas e rodar o migrate novamente utilizamos o refresh
