@@ -107,9 +107,19 @@
 
 ## Aula 11
 
-## Avançando em Migrations
+### Avançando em Migrations
+
 - Quando precisamos adicionar um novo campo a uma tabela, devemos criar uma nova migration;
 - Porém devemos tomar cuidado para não rodar o comando fresh, e apagar os dados já existentes;
 - O comando rollback pode ser utilizado para voltar uma migration;
 - Para voltar todas podemos utilizar o reset;
 - Para voltar todas e rodar o migrate novamente utilizamos o refresh
+
+## Aula 12
+
+### Eloquent
+
+- Eloquent é a ORM do Laravel;
+- Cada tabela tem um Model que é responsavel pela interação entre as requisições ao banco;
+- A convecção para o Model é o nome da entidade em singular, enquanto a tabela é a entidade ao plural: Event e events;
+- No Model faremos poucas alterações dos arquivos, geralmente configurações epecíficas; 

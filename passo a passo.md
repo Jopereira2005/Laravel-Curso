@@ -26,4 +26,8 @@
 - php artisan migrate:refresh <- faz o reset e roda de novo as migrate
 
 
+# Model
 
+## Comandos
+
+- php artisan make:model Nome <- Cria um model
